@@ -6,11 +6,7 @@ Modbus Project by <a href="https://nugetmusthaves.com/Package/NSModbus4.Serial">
 
 NModbus is a C# implementation of the Modbus protocol. Provides connectivity to Modbus slave compatible devices and applications. Supports serial ASCII, serial RTU, TCP, and UDP protocols. NModbus4 it's a fork of NModbus(https://code.google.com/p/nmodbus). NModbus4 differs from original NModbus in following:
 
-    removed USB support(FtdAdapter.dll)
-    removed log4net dependency
-    removed Unme.Common.dll dependency
-    assembly renamed to NModbus4.dll
-    target framework changed to .NET 4
+ 
 
 Install
 
